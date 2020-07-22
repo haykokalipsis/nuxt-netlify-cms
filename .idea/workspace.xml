@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10e1c8c1-9255-4ef3-8b8f-cd2de07cce84" name="Default Changelist" comment="" />
+    <list default="true" id="10e1c8c1-9255-4ef3-8b8f-cd2de07cce84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Vue Single File Component" />
         <option value="HTML File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -43,6 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../laravel/homeworks/Новая папка" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="SvnConfiguration">
@@ -56,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595352738268</updated>
       <workItem from="1595352741073" duration="814000" />
+      <workItem from="1595422937546" duration="2739000" />
     </task>
     <servers />
   </component>
